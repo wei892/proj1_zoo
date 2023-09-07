@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0%;
+
+    text-align: center;
+}
+
+.heading{
+   padding: 50px;
+   background-color: bisque;
+}
+
+.info_cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+    gap: 20px;
+}
+
+.animal_info{
+    width: 22%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.animal_info h2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
