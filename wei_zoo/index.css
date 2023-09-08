@@ -10,23 +10,39 @@
    background-color: bisque;
 }
 
-.info_cont{
+.visit_cont{
+    padding: 10px;
+}
+
+.link_cont{
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 30px;
     gap: 20px;
 }
 
-.animal_info{
-    width: 22%;
-    padding: 10px;
-    border: 2px solid black;
-    border-radius: 10px;
+.link_cont a{
+    text-decoration: none;
+    color: black;
 }
 
-.animal_info h2{
-    padding-top: 10px;
-    padding-bottom: 10px;
+.link_cont a:hover{
+    cursor: pointer;
+    color: blue;
 }
+
+.ind_link{
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.ind_link img{
+    margin: 10px;
+    max-width: 200px;
+    width: 200px;
+    border-radius: 20px;
+    height: 200px;
+}
+
+
 
