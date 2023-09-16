@@ -1,0 +1,37 @@
+/* color pallete
+black - 0, 0, 0
+blue: 20, 33, 61
+orange: 252, 163, 17
+gray: 229, 229, 229
+
+
+*/
+
+*{
+    padding: 0px;
+    margin: 0%;
+    text-align: center;
+}
+
+.page{
+    background-color: rgb(21, 20, 20);
+    height: 100%;
+}
+.heading{
+    background-color: rgb(211, 226, 255);
+    color: aliceblue;
+    width: 100%;
+    text-align: center;
+}
+
+
+.dir_link a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.dir_link a:hover{
+    color: rgb(118, 118, 224);
+    cursor: pointer;
+}
+
