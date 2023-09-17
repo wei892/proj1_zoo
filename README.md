@@ -7,4 +7,4 @@ Philip Cao - Github: ALostPocky
 Wei Lin Li - Github: wei892
 
 *Link to Page* 
-to be updated
+https://wei892.github.io/proj1_zoo/
