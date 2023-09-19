@@ -1,13 +1,13 @@
 body {
     font-family:'Times New Roman', Times, serif;
-    background-color:tomato;
+    background-color:darkolivegreen;
     text-align: center;
     border: 2px solid black;
     border-radius: 12px;
     padding: 5px;
 }
 h1 {
-    text-shadow: 2px 2px 5px red;
+    text-shadow: 2px 2px 5px green;
 }
 p {
     margin: 25px 75px 25px;

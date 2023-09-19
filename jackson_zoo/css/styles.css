@@ -1,0 +1,43 @@
+body {
+  background: #18314f;
+}
+
+h1,
+h2,
+h3,
+p {
+  color: #f7f0f0;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+p {
+  margin: 32px;
+  margin-left: 64px;
+  margin-right: 64px;
+  padding: 18px;
+  background-color: #12253D;
+  text-align: justify;
+  border-radius: 40px;
+}
+
+a {
+  color: #add8e6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+}
+
+a:visited {
+  color: #7258a9;
+}
+
+.image {
+  text-align: center;
+}
